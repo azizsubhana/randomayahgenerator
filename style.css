@@ -1,0 +1,33 @@
+body {
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #1a000d;
+    color: #fff;
+    height: 100%;
+    margin: 0;
+    font-family: 'David Libre', serif;
+    line-height: 1.5; 
+}
+.boxes {
+    padding: 3rem 1rem;
+    border: 1.9px #ffffff solid;
+    background: #99004d;
+}
+.underline {
+    border-top: 2px solid white;
+    height: 8px;
+    width: 100%;
+  }
+#ayahDisplayE{
+    font-size: 1.5rem;
+    margin-top: 15px;
+}
+#ayahDisplayR{
+    font-size: 1rem;
+    margin-top: 15px;
+}
+#ayahDisplayA{
+    font-size: 2rem;
+    text-align: right;
+    margin-top: 15px;
+}
